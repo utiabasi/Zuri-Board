@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Twitter Link",
+        "link": "https://training.zuri.team/",
+        "id_style": "btn__zuri",
+        "desc": ""
+    },
+    {
+        "id": "2",
+        "name": "Zuri Team",
+        "link": "https://training.zuri.team/",
+        "id_style": "",
+        "desc": "Zuri Teams"
+    },
+    {
+        "id": "3",
+        "name": "Zuri Books",
+        "link": " http://books.zuri.team",
+        "id_style": "",
+        "desc": "this is where you find books about design and coding"
+    },
+    {
+        "id": "4",
+        "name": "Python Books",
+        "link": "https://books.zuri.team",
+        "id_style": "",
+        "desc": "Zuri Python Books"
+    },
+    {
+        "id": "5",
+        "name": "Background Check For Coders",
+        "link": "https://background.zuri.team",
+        "id_style": "",
+        "desc": "service for doing background checks on coders"
+    },
+    {
+        "id": "6",
+        "name": "Design Books",
+        "link": "https://books.zuri.team/design-rules",
+        "id_style": "",
+        "desc": "Free Design Books offered by Zuri"
+    }
+]
